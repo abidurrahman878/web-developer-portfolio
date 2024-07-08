@@ -205,6 +205,7 @@ footer{
     background: #FFF8F3;
     padding: 130px 230px;
     margin-top: 113px;
+    
 }
 
 .footer-column{
@@ -224,8 +225,11 @@ footer{
     border-radius: 5px;
     background-color: #FFF;
     border: 0;
-    width: 100%;
-    
+    width: 100%;   
 }
 
-.contact input
+.section-title, 
+.section-description{
+    text-align: left;
+}
+

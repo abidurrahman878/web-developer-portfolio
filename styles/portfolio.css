@@ -136,9 +136,9 @@ main section{
 .info-title{
     font-weight: normal;
 }
-.info-description{
-    font-weight: bold;
-} 
+/* .info-description{ */
+    /* font-weight: bold; */
+/* }  */
 
 /* skills related styles */
 .skills-container{
